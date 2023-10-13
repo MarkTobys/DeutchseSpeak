@@ -1,0 +1,11 @@
+Audio/music/Cipher.mp3
+Scripts/script 1/airport.png
+
+"This is a testScript"
+Eliza: "What's up?"
+"Nothing much, just testing the level select trap"
+##%
+char
+Student_1/FS1-disbelief-cropped.png
+
+Eliza: "That's not very nice"

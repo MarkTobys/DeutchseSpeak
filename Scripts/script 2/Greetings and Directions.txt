@@ -1,0 +1,111 @@
+Audio/music/Cipher.mp3
+images/background_images/Berlin.png
+
+"Wow, so this is Berlin"
+"I can't believe I'm going to spend the next year here on exchange, it feels like everything here moves a mile a minute"
+"Which reminds me, I'm supposed to be meeting up with my foreign exchange host around here some time soon"
+"She said to meet her on this street at around 11:30 am, and it's 11:25 am now"
+"It's a pretty easy to reach tourist spot and there aren't many people around at the moment fortunately"
+"still I hope she's able to find me, I don't want to end up getting stranded"
+"Especially since I don't know any German!!!"
+##%
+char
+Student_1/FS1-smile6-cropped.png
+
+??? "Hallo!"
+"huh?"
+##%
+char
+Student_1/FS1-shock1-cropped.png
+
+??? "Ah! Bist du der Austauschstudent?"
+"Uuhhh"
+??? "Oh! Es tut mir leid!"
+"toot my what?"
+##%
+char
+Student_1/FS1-disbelief-cropped.png
+
+Eliza "You're the foreign exchange student from Australia right?"
+"Oh yes! You must be Eliza! Pleased to meet you"
+##%
+char
+Student_1/FS1-worried1-cropped.png
+
+Eliza "Sorry, when you didn't respond I thought I might have mistaken the wrong person for you, it is pretty loud out here so I can't blame you for not hearing me"
+"Ah well I did hear you, I just didn't understand what you were saying"
+##%
+char
+Student_1/FS1-disbelief-cropped.png
+
+Eliza "You didn't understand?"
+"Well I know a bit of German but only what I've read in travel guides and textbooks. I've never really used it in an conversation in person before"
+Eliza "Wait, so you're doing exchange studies in Berlin and you don't even know any German???"
+"I uh..."
+##%
+char
+Student_1/FS1-smile6-cropped.png
+
+Eliza "well then we'll just have to start with the basics!"    
+##%
+char
+none
+
+Narrator: "Before we go any further, I'd like to present the opportunity to learn more about the spoken language portion of DeutscheSpeak"
+Narrator: "At certain points in the game you'll be asked to perform a speech test to progress the story"
+Narrator: "A button with a microphone will appear on screen alongside a phrase to speak"
+Narrator: "Simply click the button and repeat the phrase to continue the story"
+Narrator: "When performing a speech test, make sure to speak in a quite area and enunciate so that the game can hear you as clearly as possible"
+##%
+char
+Student_1/FS1-smile6-cropped.png
+
+Eliza: "Let's start with a simple greeting"
+Eliza: "Hallo! Ich bin Eliza"
+Eliza: "which mean's, 'Hello! I am Eliza!'"
+Eliza: "now repeat the phrase "Hallo! Ich bin Eliza", except instead of Eliza, add your own name!"
+##%
+speak
+Hallo-ich-bin.mp3
+"Hallo. Ich bin [Your name]"
+hallo ich bin
+Eliza: "Great job, you did it!"
+Student_1/FS1-smile6-cropped.png
+Eliza: "Not quite, try it again"
+Student_1/FS1-disbelief-cropped.png
+
+"Haha, thanks!"
+##%
+char
+Student_1/FS1-smile2.png
+
+Eliza: "So, where do you want to head on your first day in Berlin?"
+"Well, I'm kind of hungry. Could we go to a cafe?"
+Eliza: "Any *particular* cafe?"
+"I don't know! I just got here! Are there any cafes around here you know of?"
+Eliza: "Hmm, looks like a good opportunity for German lesson 2"
+"Come on I just want to go to a cafe!"
+##%
+char
+Student_1/FS1-disbelief-cropped.png
+
+Eliza: "Hey learning how to ask for directions is a very useful skill, you never know when you might not have a phone signal or map!"
+"Fine"
+##%
+char
+Student_1/FS1-smile2.png
+
+Eliza: "Okay, lesson 2: asking for directions to a location"
+Eliza: "Wo ist das Cafe?"
+##%
+speak
+wo-ist-das.mp3
+"Wo ist das Cafe?"
+wo ist das
+Eliza: "Nice! Good job!"
+Student_1/FS1-smile6-cropped.png
+Eliza: "Not quite, try it again"
+Student_1/FS1-disbelief-cropped.png
+
+Eliza: "There's a cafe a 5 minute walk from here, shall we go?"
+"lets!"
